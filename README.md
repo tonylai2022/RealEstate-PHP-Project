@@ -14,7 +14,7 @@ This is a project based on Online Real Estate Management System Project that use
 
    * Contain an admin panel and a simple client-side
 
-   * Provide screener for user to search for property with types, status and city
+   * Provide screener for user to search for property with types and location
    
    * Provide a simple instalment calculator for payment
 
