@@ -1,0 +1,13 @@
+**Database Name: realestatephp**
+
+**Credited by Suraj Kumar Vishwakarma**
+
+**Recommended PHP Version 5.6, 7.4 or above**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro.com
+
+
