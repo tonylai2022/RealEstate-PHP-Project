@@ -8,15 +8,15 @@ This is a project based on Online Real Estate Management System Project that use
 
 ## Features
 
-   *Register as an agent/seller to post the property for sale/rent
+   * Register as an agent/seller to post the property for sale/rent
 
-   *Upload/edit/delete photos and descriptions of the property
+   * Upload/edit/delete photos and descriptions of the property
 
-   *Contain an admin panel and a simple client-side
+   * Contain an admin panel and a simple client-side
 
-   *Provide screener for user to search for property with types, status and city
+   * Provide screener for user to search for property with types, status and city
    
-   *Provide a simple instalment calculator for payment
+   * Provide a simple instalment calculator for payment
 
 
 ## Requirements
@@ -44,25 +44,25 @@ This is a project based on Online Real Estate Management System Project that use
 
 5. Create a new data base in phpMyAdmin
 
-   *Open admin under MySQL in XAMPP (If you an error, you may specify the port number under [mysqld] in the Config/myini file.)
+   * Open admin under MySQL in XAMPP (If you an error, you may specify the port number under [mysqld] in the Config/myini file.)
 
-   *In phpMyAdmin, click New on the left side bar and enter the database name as realestatephp then press Create 
+   * In phpMyAdmin, click New on the left side bar and enter the database name as realestatephp then press Create 
 
-   *Upload the sql file from your cloned file under DATABASE FILE
+   * Upload the sql file from your cloned file under DATABASE FILE
 
 6. Reset password to connect the web server to the database
 
-   *In phpMyAdmin, find the realestatephp you just created and go in
+   * In phpMyAdmin, find the realestatephp you just created and go in
 
-   *Click Privileges on the top --> Edit privlieges (username:root and hostname:localhost)
+   * Click Privileges on the top --> Edit privlieges (username:root and hostname:localhost)
 
-   *Click Change password on the top
+   * Click Change password on the top
 
-   *Go to Apache Config --> myPhpAdmin file --> enter the password you set into $cfg['Servers'][$i]['password'] = 'your_password' and enter your MySQL port number into $cfg['Servers'][$i]['host'] = 'localhost:your_port_number';
+   * Go to Apache Config --> myPhpAdmin file --> enter the password you set into $cfg['Servers'][$i]['password'] = 'your_password' and enter your MySQL port number into $cfg['Servers'][$i]['host'] = 'localhost:your_port_number';
 
 7. Go to localhost/RealEstate-PHP-Project and log in.
 
-   *Find the login info in 01 LOGIN DETAILS & PROJECT INFO.txt file
+   * Find the login info in 01 LOGIN DETAILS & PROJECT INFO.txt file
 
 8. Enjoy and navigate the website!
 
