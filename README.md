@@ -21,20 +21,20 @@ This is a project based on Online Real Estate Management System Project that use
 
 ## Requirements
 
-- XAMPP;
-- VSCode;
+- XAMPP
+- VSCode
 
 ## Procedures
 
-1. Install XAMPP (see https://www.apachefriends.org/download.html) and VScode (see https://code.visualstudio.com/download)
+### 1. Install XAMPP (see https://www.apachefriends.org/download.html) and VScode (see https://code.visualstudio.com/download)
 
 2. Open XAMPP Control Panel
 
-   *Start Apache and MySQL (If there is a connection problem with MySQL, change the port number and in Config under MySQL and under XAMPP - open XAMPP with administrator mode)
+   * Start Apache and MySQL (If there is a connection problem with MySQL, change the port number and in Config under MySQL and under XAMPP - open XAMPP with administrator mode)
 
 3. Open VSCode
 
-   *Open terminal and enter
+   * Open terminal and enter
 
       ```
       git clone https://github.com/tonylai2022/RealEstate-PHP-Project.git 
