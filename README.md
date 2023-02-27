@@ -26,7 +26,7 @@ This is a project based on Online Real Estate Management System Project that use
 
 ## Procedures
 
-###1. Install XAMPP (see https://www.apachefriends.org/download.html) and VScode (see https://code.visualstudio.com/download)
+1. Install XAMPP (see https://www.apachefriends.org/download.html) and VScode (see https://code.visualstudio.com/download)
 
 2. Open XAMPP Control Panel
 
