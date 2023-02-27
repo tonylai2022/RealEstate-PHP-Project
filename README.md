@@ -1,6 +1,6 @@
 # RealEstate-PHP-Project
 
-RealEstate-PHP-Project is a simple project based on Online Real Estate Management System Project that uses PHP Language with MySQL Database.
+This is a project based on Online Real Estate Management System Project that uses PHP Language with MySQL Database.
 
 <img src="./images/screenshot1.PNG" style="border: 1px solid black; width: 300px">
 <img src="./images/screenshot2.PNG" style="border: 1px solid black; width: 300px">
